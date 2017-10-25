@@ -1,0 +1,9 @@
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\bin\Debug\Jumping balls.exe.config
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\bin\Debug\Jumping balls.exe
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\bin\Debug\Jumping balls.pdb
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping balls.csprojResolveAssemblyReference.cache
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping_balls.Form1.resources
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping_balls.Properties.Resources.resources
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping balls.csproj.GenerateResource.Cache
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping balls.exe
+C:\Users\ПК\Documents\Visual Studio 2015\Projects\Jumping balls\Jumping balls\obj\Debug\Jumping balls.pdb
